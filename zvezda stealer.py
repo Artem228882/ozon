@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 
-#HOST = 'https://www.ozon.ru/'
 URL = 'https://www.ozon.ru/product/videokarta-palit-geforce-rtx-3060-ti-8-gb-ne6306t019p2-190ad-rev-2-0-lhr-231908039/?asb=NPkYJQz25AWTyLRsXRZCsSpWE%252BxtZ9JuX0Ni7N8Y0AI%253D&asb2=g9EeGyI6q_PaBPmkN69rRxFRZWBpaOTYRugVrF8adngpQGct8BA4Z7S1xXSuwG6R&keywords=3060ti&sh=FFaub92R'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36'}
 

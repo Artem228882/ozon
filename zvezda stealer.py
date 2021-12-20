@@ -42,5 +42,5 @@ if  HTML_content.find_all("div", class_="ui-a0c", limit = 1)!= []:
     kolvo_otzivov_founder(HTML_content)
 
 else:
-        print('Пока прокси не подключены, перезапустите программу')
+    print('Пока прокси не подключены, перезапустите программу')
     
